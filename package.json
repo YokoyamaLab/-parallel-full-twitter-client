@@ -1,0 +1,22 @@
+{
+  "name": "parallel-full-twitter-client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YokoyamaLab/parallel-full-twitter-client.git"
+  },
+  "author": "Shohei Yokoyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YokoyamaLab/parallel-full-twitter-client/issues"
+  },
+  "homepage": "https://github.com/YokoyamaLab/parallel-full-twitter-client#readme",
+  "dependencies": {
+    "socket.io-client": "^4.3.2"
+  }
+}
